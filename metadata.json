@@ -1,0 +1,6 @@
+{
+  "name": "Autocore Garage & Diagnostics",
+  "description": "High-tech automotive diagnostics, 3D vehicle passport, OEM parts shop, and live OBD-II telemetry platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
